@@ -1,6 +1,2 @@
 # .bat files
 *.bat
-
-# index.php, composer.json
-/index.php
-/composer.json
